@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,KACE,4DAA+D,CAC/D,2BAA4B,CAC5B,uBAA2B,CAC3B,2BACF","file":"main.d174481d.chunk.css","sourcesContent":["body {\r\n  background-image: linear-gradient(130deg, #ec66e8, transparent);\r\n  background-repeat: no-repeat;\r\n  background-position: center;\r\n  background-attachment: fixed;\r\n}\r\n"]}
